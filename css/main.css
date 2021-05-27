@@ -1,0 +1,138 @@
+/* Inserta tu codigo aqui */
+*{
+     outline: 1px dotted red;
+     margin: 0px;
+     width: 1200px;
+}
+
+h1, h2, h3, h4 {
+     width: 100%;
+}
+.mg-center {
+     margin: auto;
+}
+.mg-bottom-10 {
+     margin-bottom: 10px;
+}
+
+.w-200{
+	width: 200%;
+}
+.w-80{
+	width: 80%;
+     outline: 1px dashed green;
+}
+.w-50{
+     width: 49%;
+}
+.w-33{
+     width: 33%;
+     outline: 2px dashed purple;
+}
+.w-25{
+     width: 25%;
+     outline: 2px dashed purple;
+}
+
+.w-10{
+     width: 10%;
+     /* display: inline; */
+}
+.w-5{
+     width: 5%;
+}
+
+.col {
+     display: inline-block;
+     vertical-align: top;
+}
+
+.grilla {
+     display: inline;
+}
+
+.circle {
+     border-radius: 50%;
+}
+
+.pd-10 {
+	padding: 10%;
+}
+.pd-1 {
+	padding: 1%;
+}
+
+.pd-lat-10 {
+     padding: 0% 10%;
+}
+.pd-lat-5 {
+     padding: 0% 5%;
+}
+
+.va-top {
+     vertical-align: top;
+}
+
+.text-orange {
+     color: orange;
+}
+.wrapper {
+     outline: 1px solid gray;
+}
+
+.header {
+     width: 100%;
+     
+}
+
+.header .logo {
+     width: 10%;
+     vertical-align: middle;
+     /* margin: 0% 5%; */
+     padding: 0% 5%;
+     /* height: auto; */
+     /* display: inline-block; */
+}
+
+.header ul {
+     vertical-align: middle;
+     display: inline-block;
+     list-style: none;
+     width: 75%;
+     margin: auto;
+     /* text-align: center; */
+     outline: 1px solid orangered;
+}
+
+.header li {
+     display: inline;
+     padding: 0% 2%;
+     outline: 1px solid blue;
+}
+
+.header .img-wide {
+     height: 300px;
+}
+
+.header p {
+     width: 80%;
+}
+
+.main {
+     margin: auto;
+}
+
+.main .w-50 img {
+     margin: auto;
+     display: block;
+}
+
+.main .w-50 p {
+     display: inline-block;
+     width: 80%;
+}
+
+.seccion3 {
+
+}
+
